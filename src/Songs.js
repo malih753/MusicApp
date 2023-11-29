@@ -1,0 +1,51 @@
+export const songsList = [
+  {
+    title: 'yashal Shahid',
+    artist: 'powful',
+    artwork: require('../src/images/nap.jpg'),
+    url: require('../src/music/yasha.mp3'),
+    id: '1',
+  },
+  {
+    title: 'Bad Liar',
+    artist: 'powful',
+    artwork: require('../src/images/girl.jpg'),
+    url: require('../src/music/yasha.mp3'),
+    id: '2',
+  },
+  {
+    title: 'Faded',
+    artist: 'Alan Walker',
+    artwork: require('../src/images/ist.jpg'),
+    url: require('../src/music/hamne.mp3'),
+    id: '3',
+  },
+  {
+    title: 'Hate Me',
+    artist: 'Ellie Marse',
+    artwork: require('../src/images/tap.jpg'),
+    url: require('../src/music/jaweria.mp3'),
+    id: '4',
+  },
+  {
+    title: 'Namal Khan',
+    artist: 'powful',
+    artwork: require('../src/images/mus.jpg'),
+    url: require('../src/music/mayal.mp3'),
+    id: '5',
+  },
+  {
+    title: 'Noor Khan',
+    artist: 'powful',
+    artwork: require('../src/images/tap.jpg'),
+    url: require('../src/music/hado.mp3'),
+    id: '6',
+  },
+  {
+    title: 'Maya Khan',
+    artist: 'powful',
+    artwork: require('../src/images/nap.jpg'),
+    url: require('../src/music/Dualips.mp3'),
+    id: '7',
+  },
+];
